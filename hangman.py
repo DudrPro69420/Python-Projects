@@ -1,7 +1,7 @@
 import random 
 from words import wordList
 
-#it requires words.txt file.
+#it requires words.py file.
 
 def getWord():
     word = random.choice(wordList)
